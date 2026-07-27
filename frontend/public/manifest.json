@@ -1,0 +1,15 @@
+{
+  "short_name": "SliceHouse",
+  "name": "SliceHouse — Pizza Delivery",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/login",
+  "display": "standalone",
+  "theme_color": "#e0472c",
+  "background_color": "#fff7ea"
+}
